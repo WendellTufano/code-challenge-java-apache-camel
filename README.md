@@ -133,9 +133,10 @@ mvn clean verify && java -jar target/camel-dummyjson-challenge-h2-0.1.0-SNAPSHOT
 ---
 
 ## Entrega
-- Repositório público com código, README atualizado e **testes passando**. (Não subir no repositório de origem do desafio)
-- Prints ou descrição curta mostrando os retries no log.
-- Não suba `target/`.
+- Repositório público com código atualizado conforme instruções do challenge.
+- Código compilando, exemplo: `mvn clean package`.
+- Não suba a pasta `target/`.
+- **Não suba nada no repositório de origem do desafio**
 
 ---
 
