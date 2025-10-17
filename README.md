@@ -2,7 +2,7 @@
 
 **Você implementará** um mini-serviço de pedidos com CRUD e fluxo de pagamento via **Apache Camel** integrando com a api publica HTTP **DummyJSON**. O projeto já inclui **H2 (memória)** e **JPA**, permitindo **POST/DELETE** reais sem configurar banco externo.
 
-> Este repositório é **apenas ESQUELETO**: entidades e repositório existem, porém **services, controllers e rotas Camel estão em TODO**. Você deve implementar as regras, endpoints, rota e testes. Faz parte do desafio qualquer ajuste para a compilação com sucesso do código.
+> Este repositório é **apenas ESQUELETO**: entidades e repositório existem, porém **services, controllers e rotas Camel estão em TODO**. Você deve implementar as regras, endpoints, rota e testes. Faz parte do desafio qualquer ajuste para a compilação com sucesso do código, independente do template fornecido.
 
 ---
 
